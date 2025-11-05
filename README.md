@@ -66,7 +66,8 @@ This project implements an autonomous driving agent in the [CARLA](http://carla.
         python discrete_driver.py --exp-name ddqn --town Town07 train False
         ```
 
-![demo](https://github.com/user-attachments/assets/59a9902f-536c-498f-8eb3-c7ac28a7b764)
+![Untitled-video-Made-with-Clipchamp](https://github.com/user-attachments/assets/213f30be-60af-4c0b-856a-c8cc9b82b9e7)
+
 
 
 3.  **Train the agent:**
