@@ -22,7 +22,7 @@ This project implements an autonomous driving agent in the [CARLA](http://carla.
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/LewisDoo-01/RL-Autonomous-Driving-System-in-Carla-env-.git
     cd Autonomous_Driving
     ```
 
